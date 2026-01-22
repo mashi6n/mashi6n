@@ -51,3 +51,4 @@ Here are some books I've read. (I keep a record of books I've read for continuou
 - [ゼロからのTCP/IPプロトコルスタック自作入門](https://book.mynavi.jp/ec/products/detail/id=149014)
 - [確率的機械学習:入門編 I](https://www.asakura.co.jp/detail.php?book_code=12303&srsltid=AfmBOoq1_afHlPesg01Qhm6Z2X3t0_TLcB-sxbRCQbaqjaSyfqLmL6s0)
 - [確率的機械学習:入門編 II](https://www.asakura.co.jp/detail.php?book_code=12304&srsltid=AfmBOoqNpzE3AcB1X-twv43MbNF9arb6T-TVLjoIEBNxC_duCk80F2Bl)
+- [Deep Learning: Foundations and Concepts](https://www.maruzen-publishing.co.jp/book/b10153472.html)
