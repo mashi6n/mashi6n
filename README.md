@@ -18,6 +18,7 @@ Here are some books I've read. (I keep a record of books I've read for continuou
 
 **Completed**
 - [Software Engineering at Google](https://www.oreilly.co.jp/books/9784873119656/)
+- [Designing Data-Intensive Applications](https://www.oreilly.co.jp/books/9784873118703/)
 - [Readable Code](https://www.oreilly.co.jp/books/9784873115658/)
 - [Linuxのしくみ](https://gihyo.jp/book/2022/978-4-297-13148-7)
 - [Dokcer&Kubernetesのきほんのきほん](https://book.mynavi.jp/ec/products/detail/id=120304)
@@ -32,7 +33,6 @@ Here are some books I've read. (I keep a record of books I've read for continuou
 
 **In Progress**
 - [[作って学ぶ]OSの仕組みI](https://gihyo.jp/book/2025/978-4-297-14859-1)
-- [Designing Data-Intensive Applications](https://www.oreilly.co.jp/books/9784873118703/)
 - [SQL Antipatterns](https://www.oreilly.co.jp/books/9784814400744/)
 - [TypeScriptとReact/Next.jsでつくる 実践Webアプリケーション開発](https://gihyo.jp/book/2022/978-4-297-12916-3)
 
