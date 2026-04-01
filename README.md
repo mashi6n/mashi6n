@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm mashi6n (/ˈmɑʃiro kʊn/), a graduate student at The University of Tokyo, aiming to become a Software Engineer.
+I'm mashi6n (/ˈmɑʃiro kʊn/), a Software Engineer.
 
 I'm interested in various fields of software engineering, and my research focuses on Machine Learning and Multimodal Processing.
 
